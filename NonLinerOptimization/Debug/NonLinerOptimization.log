@@ -1,0 +1,5 @@
+﻿  MainProg.cpp
+c:\users\knigh\desktop\vich math\nonlineroptimization\nonlineroptimization\mainprog.cpp(94): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\knigh\desktop\vich math\nonlineroptimization\nonlineroptimization\mainprog.cpp(112): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\knigh\desktop\vich math\nonlineroptimization\nonlineroptimization\mainprog.cpp(115): warning C4305: аргумент: усечение из "double" в "float"
+  NonLinerOptimization.vcxproj -> C:\Users\KNIGH\Desktop\Vich Math\NonLinerOptimization\Debug\NonLinerOptimization.exe
